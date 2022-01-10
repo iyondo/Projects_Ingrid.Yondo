@@ -1,0 +1,229 @@
+﻿Country_name;ISO;Region
+Afghanistan;AFG;EMRO
+Albania;ALB;EURO
+Algeria;DZA;AFRO
+American Samoa;ASM;WPRO
+Andorra;AND;EURO
+Angola;AGO;AFRO
+Anguilla;AIA;AMRO
+Antigua and Barbuda;ATG;AMRO
+Argentina;ARG;AMRO
+Armenia;ARM;EURO
+Aruba;ABW;AMRO
+Australia;AUS;WPRO
+Austria;AUT;EURO
+Azerbaijan;AZE;EURO
+Bahamas;BHS;AMRO
+Bahrain;BHR;EMRO
+Bangladesh;BGD;SEARO
+Barbados;BRB;AMRO
+Belarus;BLR;EURO
+Belgium;BEL;EURO
+Belize;BLZ;AMRO
+Benin;BEN;AFRO
+Bermuda;BMU;AMRO
+Bhutan;BTN;SEARO
+Bolivia (Plurinational State of);BOL;AMRO
+Bonaire;XAA;AMRO
+Bonaire, Sint Eustatius and Saba;BES;AMRO
+Bosnia and Herzegovina;BIH;EURO
+Botswana;BWA;AFRO
+Brazil;BRA;AMRO
+British Virgin Islands;VGB;AMRO
+Brunei Darussalam;BRN;WPRO
+Bulgaria;BGR;EURO
+Burkina Faso;BFA;AFRO
+Burundi;BDI;AFRO
+Cabo Verde;CPV;AFRO
+Cambodia;KHM;WPRO
+Cameroon;CMR;AFRO
+Canada;CAN;AMRO
+Cayman Islands;CYM;AMRO
+Central African Republic;CAF;AFRO
+Chad;TCD;AFRO
+Chile;CHL;AMRO
+China;CHN;WPRO
+Colombia;COL;AMRO
+Comoros;COM;AFRO
+Congo;COG;AFRO
+Cook Islands;COK;WPRO
+Costa Rica;CRI;AMRO
+Côte d’Ivoire;CIV;AFRO
+Croatia;HRV;EURO
+Cuba;CUB;AMRO
+Curaçao;CUW;AMRO
+Cyprus;CYP;EURO
+Czechia;CZE;EURO
+Democratic Republic of the Congo;COD;AFRO
+Denmark;DNK;EURO
+Djibouti;DJI;EMRO
+Dominica;DMA;AMRO
+Dominican Republic;DOM;AMRO
+Ecuador;ECU;AMRO
+Egypt;EGY;EMRO
+El Salvador;SLV;AMRO
+Equatorial Guinea;GNQ;AFRO
+Estonia;EST;EURO
+Eswatini;SWZ;AFRO
+Ethiopia;ETH;AFRO
+Falkland Islands (Malvinas);FLK;AMRO
+Faroe Islands;FRO;EURO
+Fiji;FJI;WPRO
+Finland;FIN;EURO
+France;FRA;EURO
+French Guiana;GUF;AMRO
+French Polynesia;PYF;WPRO
+Gabon;GAB;AFRO
+Gambia;GMB;AFRO
+Georgia;GEO;EURO
+Germany;DEU;EURO
+Ghana;GHA;AFRO
+Gibraltar;GIB;EURO
+Greece;GRC;EURO
+Greenland;GRL;EURO
+Grenada;GRD;AMRO
+Guadeloupe;GLP;AMRO
+Guam;GUM;WPRO
+Guatemala;GTM;AMRO
+Guernsey;GGY;EURO
+Guinea;GIN;AFRO
+Guinea-Bissau;GNB;AFRO
+Guyana;GUY;AMRO
+Haiti;HTI;AMRO
+Honduras;HND;AMRO
+Hungary;HUN;EURO
+Iceland;ISL;EURO
+India;IND;SEARO
+Indonesia;IDN;SEARO
+Iran (Islamic Republic of);IRN;EMRO
+Iraq;IRQ;EMRO
+Ireland;IRL;EURO
+Isle of Man;IMN;EURO
+Israel;ISR;EURO
+Italy;ITA;EURO
+Jamaica;JAM;AMRO
+Japan;JPN;WPRO
+Jersey;JEY;EURO
+Jordan;JOR;EMRO
+Kazakhstan;KAZ;EURO
+Kenya;KEN;AFRO
+Kiribati;KIR;WPRO
+Kosovo;XKX;EURO
+Kuwait;KWT;EMRO
+Kyrgyzstan;KGZ;EURO
+Lao People's Democratic Republic;LAO;WPRO
+Latvia;LVA;EURO
+Lebanon;LBN;EMRO
+Lesotho;LSO;AFRO
+Liberia;LBR;AFRO
+Libya;LBY;EMRO
+Liechtenstein;LIE;OTHER
+Lithuania;LTU;EURO
+Luxembourg;LUX;EURO
+Madagascar;MDG;AFRO
+Malawi;MWI;AFRO
+Malaysia;MYS;WPRO
+Maldives;MDV;SEARO
+Mali;MLI;AFRO
+Malta;MLT;EURO
+Marshall Islands;MHL;WPRO
+Martinique;MTQ;AMRO
+Mauritania;MRT;AFRO
+Mauritius;MUS;AFRO
+Mexico;MEX;AMRO
+Micronesia (Federated States of);FSM;WPRO
+Monaco;MCO;EURO
+Mongolia;MNG;WPRO
+Montenegro;MNE;EURO
+Montserrat;MSR;AMRO
+Morocco;MAR;EMRO
+Mozambique;MOZ;AFRO
+Myanmar;MMR;SEARO
+Namibia;NAM;AFRO
+Nauru;NRU;WPRO
+Nepal;NPL;SEARO
+Netherlands;NLD;EURO
+New Caledonia;NCL;WPRO
+New Zealand;NZL;WPRO
+Nicaragua;NIC;AMRO
+Niger;NER;AFRO
+Nigeria;NGA;AFRO
+Niue;NIU;WPRO
+North Macedonia;MKD;EURO
+Northern Mariana Islands (Commonwealth of the);MNP;WPRO
+Norway;NOR;EURO
+occupied Palestinian territory;PSE;EMRO
+Oman;OMN;EMRO
+Pakistan;PAK;EMRO
+Palau;PLW;WPRO
+Panama;PAN;AMRO
+Papua New Guinea;PNG;WPRO
+Paraguay;PRY;AMRO
+Peru;PER;AMRO
+Philippines;PHL;WPRO
+Pitcairn Islands;PCN;WPRO
+Poland;POL;EURO
+Portugal;PRT;EURO
+Puerto Rico;PRI;AMRO
+Qatar;QAT;EMRO
+Republic of Korea;KOR;WPRO
+Republic of Moldova;MDA;EURO
+Romania;ROU;EURO
+Russian Federation;RUS;EURO
+Rwanda;RWA;AFRO
+Saba;XCA;AMRO
+Saint Helena;SHN;AFRO
+Saint Kitts and Nevis;KNA;AMRO
+Saint Lucia;LCA;AMRO
+Saint Vincent and the Grenadines;VCT;AMRO
+Samoa;WSM;WPRO
+San Marino;SMR;EURO
+Sao Tome and Principe;STP;AFRO
+Saudi Arabia;SAU;EMRO
+Senegal;SEN;AFRO
+Serbia;SRB;EURO
+Seychelles;SYC;AFRO
+Sierra Leone;SLE;AFRO
+Singapore;SGP;WPRO
+Sint Eustatius;XBA;AMRO
+Sint Maarten;SXM;AMRO
+Slovakia;SVK;EURO
+Slovenia;SVN;EURO
+Solomon Islands;SLB;WPRO
+Somalia;SOM;EMRO
+South Africa;ZAF;AFRO
+South Sudan;SSD;AFRO
+Spain;ESP;EURO
+Sri Lanka;LKA;SEARO
+Sudan;SDN;EMRO
+Suriname;SUR;AMRO
+Sweden;SWE;EURO
+Switzerland;CHE;EURO
+Syrian Arab Republic;SYR;EMRO
+Tajikistan;TJK;EURO
+Thailand;THA;SEARO
+The United Kingdom;GBR;EURO
+Timor-Leste;TLS;SEARO
+Togo;TGO;AFRO
+Tokelau;TKL;WPRO
+Tonga;TON;WPRO
+Trinidad and Tobago;TTO;AMRO
+Tunisia;TUN;EMRO
+Turkey;TUR;EURO
+Turkmenistan;TKM;EURO
+Turks and Caicos Islands;TCA;AMRO
+Tuvalu;TUV;WPRO
+Uganda;UGA;AFRO
+Ukraine;UKR;EURO
+United Arab Emirates;ARE;EMRO
+United Republic of Tanzania;TZA;AFRO
+United States of America;USA;AMRO
+Uruguay;URY;AMRO
+Uzbekistan;UZB;EURO
+Vanuatu;VUT;WPRO
+Venezuela (Bolivarian Republic of);VEN;AMRO
+Viet Nam;VNM;WPRO
+Wallis and Futuna;WLF;WPRO
+Yemen;YEM;EMRO
+Zambia;ZMB;AFRO
+Zimbabwe;ZWE;AFRO
