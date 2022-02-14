@@ -1,9 +1,9 @@
-### Project Description
+## Project Description 
 
 In this project, I will create my first software: a game that interacts with the user.
 
 
 
-## Game: 
+## Game
 
 Strong Random Password Generator with several conditions: 
