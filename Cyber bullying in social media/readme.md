@@ -12,7 +12,7 @@ The goals of this project is to apply the data preparation knowledge and to trai
 
 ## Steps
 The technical requirements for this project are as follows:
-- Import the data using Pandas.
+- Import the data using Pandas
 - Examine the data for potential issues (missing data, data inconsistency, outliers, duplicates etc).
 - Apply the different cleaning and manipulation techniques you have learned.
 - Explain all the approaches you are going to use (why and how)
